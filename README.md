@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've created bugs for 4 years<br>📚 I'm currently learning how to be a Full-Stack Web Developer with HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps <br>🎯 My goal is to earn new experiences and be
+<p align="left">✨ I've created bugs for 4 years<br>📚 I'm currently learning how to be a Full-Stack Web Developer with ASP.NET Core, C#, PostgreSQL, Web3, Entity Framework Core, Bootstrap, HTML, CSS, JavaScript, Node, React, and DApps.<br>🎯 My goal is to earn new experiences and be
 a valuable engineer by applying my knowledge into practice and staying updated with evolving technology.<br></p>
 
 📫 How to reach me **aleynasylemez@gmail.com**
